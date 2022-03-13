@@ -1,4 +1,13 @@
-# A MERN stack app for posting, booking, and managing freelance services
+# ReserveMe
+## A MERN stack app for posting, booking, and managing freelance services
+
+# Summary:
+- Freelancers can create listings about their services
+- Service seekers can search through listings & book freelancer
+- User profiles can add exprience, education
+- Authentication/session maintenance with JWT
+- State management with Redux
+
 
 # Getting Started with Create React App
 
